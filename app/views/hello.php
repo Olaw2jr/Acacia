@@ -17,8 +17,8 @@
     <!-- Global CSS -->
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">   
     <!-- Plugins CSS -->    
-    <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
-    <link rel="stylesheet" href="assets/plugins/flexslider/flexslider.css">
+    <link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.css">
+    <link rel="stylesheet" href="bower_components/flexslider/flexslider.css">
     <!-- Theme CSS -->
     <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -26,16 +26,6 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    
-      ga('create', 'UA-24707561-18', 'auto');
-      ga('send', 'pageview');
-    
-    </script>
 </head> 
 
 <body class="home-page">   
@@ -414,29 +404,6 @@
             </div><!--//modal-content-->
         </div><!--//modal-dialog-->
     </div><!--//modal-->
-    
-    <!-- *****CONFIGURE STYLE****** -->  
-    <div class="config-wrapper">
-        <div class="config-wrapper-inner">
-            <a id="config-trigger" class="config-trigger" href="#"><i class="fa fa-cog"></i></a>
-            <div id="config-panel" class="config-panel">
-                <h5>Choose Colour</h5>
-                <ul id="color-options" class="list-unstyled list-inline">
-                    <li class="theme-1 active" ><a data-style="assets/css/styles.css" href="#"></a></li>
-                    <li class="theme-2"><a data-style="assets/css/styles-2.css" href="#"></a></li>
-                    <li class="theme-3"><a data-style="assets/css/styles-3.css" href="#"></a></li>
-                    <li class="theme-4"><a data-style="assets/css/styles-4.css" href="#"></a></li>                   
-                    <li class="theme-5"><a data-style="assets/css/styles-5.css" href="#"></a></li>                     
-                    <li class="theme-6"><a data-style="assets/css/styles-6.css" href="#"></a></li>
-                    <li class="theme-7"><a data-style="assets/css/styles-7.css" href="#"></a></li>
-                    <li class="theme-8"><a data-style="assets/css/styles-8.css" href="#"></a></li>                    
-                    <li class="theme-9"><a data-style="assets/css/styles-9.css" href="#"></a></li>
-                    <li class="theme-10"><a data-style="assets/css/styles-10.css" href="#"></a></li>
-                </ul><!--//color-options-->
-                <a id="config-close" class="close" href="#"><i class="fa fa-times-circle"></i></a>
-            </div><!--//configure-panel-->
-        </div><!--//config-wrapper-inner-->
-    </div><!--//config-wrapper-->
  
     <!-- Javascript -->          
     <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
@@ -444,9 +411,9 @@
     <script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script> 
     <script type="text/javascript" src="assets/plugins/bootstrap-hover-dropdown.min.js"></script>
     <script type="text/javascript" src="assets/plugins/back-to-top.js"></script>
-    <script type="text/javascript" src="assets/plugins/jquery-placeholder/jquery.placeholder.js"></script>
-    <script type="text/javascript" src="assets/plugins/FitVids/jquery.fitvids.js"></script>
-    <script type="text/javascript" src="assets/plugins/flexslider/jquery.flexslider-min.js"></script>     
+    <script type="text/javascript" src="bower_components/jquery-placeholder/jquery.placeholder.js"></script>
+    <script type="text/javascript" src="bower_components/FitVids/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="bower_components/flexslider/jquery.flexslider-min.js"></script>     
     <script type="text/javascript" src="assets/js/main.js"></script>
     
             
