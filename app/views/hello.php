@@ -33,7 +33,7 @@
     <header id="header" class="header">  
         <div class="container">       
             <h1 class="logo">
-                <a href="index.html"><span class="text">Velocity</span></a>
+                <span class="text"><a href="index.html">Acacia</a></span>
             </h1><!--//logo-->
             <nav class="main-nav navbar-right" role="navigation">
                 <div class="navbar-header">
@@ -81,9 +81,9 @@
     
     <section class="promo section section-on-bg">
         <div class="container text-center">                
-            <h2 class="title">Let's get your product online fast<br />and get attention right away!</h2>
-            <p class="intro">Velocity is a mobile-friendly HTML5 template designed to help you <br /> promote your product effectively to your target users</p>
-            <p><a class="btn btn-cta btn-cta-primary" href="signup.html">Try Velocity Free</a></p>   
+            <h2 class="title">Let's get you across Tanzania<br />and get attention right away!</h2>
+            <p class="intro">Acacia is a Tanzania travel directory designed to help you <br /> get across Tanzania easly...</p>
+            <p><a class="btn btn-cta btn-cta-primary" href="signup.html">Try Acacia Free</a></p>   
             <button type="button" class="play-trigger btn-link " data-toggle="modal" data-target="#modal-video" data-backdrop="static" data-keyboard="false"><i class="fa fa-youtube-play"></i> Watch the video</button>
         </div><!--//container-->
     </section><!--//promo-->
@@ -93,11 +93,11 @@
         <!-- ******Why Section****** -->
         <section id="why" class="section why">
             <div class="container">
-                <h2 class="title text-center">How Can Velocity Help You?</h2>
-                <p class="intro text-center">We take care of the UX and front-end design so you can save time building your site</p>
+                <h2 class="title text-center">How Can Acacia Help You?</h2>
+                <p class="intro text-center">Save you time and effort. From Accomodation, Transport to unique places to visit... </p>
                 <div class="row item">
                     <div class="content col-md-4 col-sm-12 col-xs-12">
-                        <h3 class="title">Save you time and effort</h3>
+                        <h3 class="title">Accomodation</h3>
                         <div class="desc">
                             <p>Explain one of your product benefits here. Let users know how they can benefit using your product. It’s also a good idea to back it up with a testimonial or tweet from your users.</p>
                             <p>The original PSD of the graphic is included in the package. You can easily customise the PSD to meet your needs.</p>
@@ -107,7 +107,7 @@
                                 <img class="img-responsive img-circle" src="assets/images/people/profile-s-1.png" alt="" />
                             </div><!--//profile-->
                             <div class="quote-content">
-                                <blockquote><p><a href="https://twitter.com/3rdwave_themes" target="_blank">@velocity</a> Love it! Thank you for making my life easier and saving me time! I’ll definitely recommend it to my friends. :)</p></blockquote>
+                                <blockquote><p><a href="https://twitter.com/3rdwave_themes" target="_blank">@Acacia</a> Love it! Thank you for making my life easier and saving me time! I’ll definitely recommend it to my friends. :)</p></blockquote>
                                 <p class="source">@LisaW, Bristol</p>
                             </div><!--//quote-content-->                                     
                         </div><!--//quote-->                        
@@ -120,7 +120,7 @@
                 
                 <div class="row item">
                     <div class="content col-md-4 col-sm-12 col-xs-12 col-md-push-8 col-sm-push-0 col-xs-push-0">
-                        <h3 class="title">Works across all devices</h3>
+                        <h3 class="title">Transport</h3>
                         <div class="desc">
                             <p>Explain one of your product benefits here. Let users know how they can benefit using your product. It’s also a good idea to back it up with a testimonial or tweet from your users.</p>
                             <p>The original PSD of the graphic is included in the package. You can easily customise the PSD to meet your needs.</p>
@@ -147,7 +147,7 @@
                 
                 <div class="row item ">
                     <div class="content col-md-4 col-sm-12 col-xs-12">
-                        <h3 class="title">Easy to customise</h3>
+                        <h3 class="title">Where to visit</h3>
                         <div class="desc">
                             <p>Explain one of your product benefits here. Let users know how they can benefit using your product. It’s also a good idea to back it up with a testimonial or tweet from your users.</p>
                             <p>The original PSD of the graphic is included in the package. You can easily customise the PSD to meet your needs.</p>
@@ -204,7 +204,7 @@
         <!-- ******Testimonials Section****** -->
         <section class="section testimonials">
             <div class="container">
-                <h2 class="title text-center">What are people saying about Velocity?</h2>
+                <h2 class="title text-center">What are people saying about Acacia?</h2>
                 <div id="testimonials-carousel" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
                         <li data-target="#testimonials-carousel" data-slide-to="0" class="active"></li>
@@ -217,7 +217,7 @@
                             <div class="content">
                                 <blockquote>
                                 <i class="fa fa-quote-left"></i>
-                                <p>We used Velocity as a front-end design template for our product site. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum elit tortor, consectetur vitae varius at, interdum eget libero. Morbi.</p>
+                                <p>We used Acacia as a front-end design template for our product site. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum elit tortor, consectetur vitae varius at, interdum eget libero. Morbi.</p>
                                 </blockquote>
                                 <p class="source">Kevin Knight<br /><span class="title">Co-Founder, Startup Hub</span></p>
                             </div><!--//content-->                         
@@ -281,8 +281,8 @@
         <section id="cta-section" class="section cta-section text-center home-cta-section">
             <div class="container">
                <h2 class="title">Ready to promote your product online?</h2>
-               <p class="intro">More than <span class="counting">300,000</span> users are using Velocity</p>
-               <p><a class="btn btn-cta btn-cta-primary" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-products-velocity/" target="_blank">Get Velocity Now</a></p>
+               <p class="intro">More than <span class="counting">300,000</span> users are using Acacia</p>
+               <p><a class="btn btn-cta btn-cta-primary" href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-products-Acacia/" target="_blank">Get Acacia Now</a></p>
             </div><!--//container-->
         </section><!--//cta-section-->
         
@@ -337,7 +337,7 @@
                                 <li class="row-end"><a href="#"><i class="fa fa-rss"></i></a></li>             
                             </ul>
                             <div class="form-container">
-                                <p class="intro">Stay up to date with the latest news and offers from Velocity</p>
+                                <p class="intro">Stay up to date with the latest news and offers from Acacia</p>
                                 <form class="signup-form navbar-form">
                                     <div class="form-group">
                                         <input type="text" class="form-control" placeholder="Enter your email address">
